@@ -1,11 +1,11 @@
 {
   "page": [],
   "component": [],
-  "blocl": [
+  "block": [
     {
-      "name": "base-search-table",
+      "name": "B-base-search-table",
       "type": "block",
-      "url": "http://fmsnexus.paydev.com:8081/repository/npm-local/@fms/b-base-search-table"
+      "npmUrl": "http://fmsnexus.paydev.com:8081/repository/npm-local/@fms/b-base-search-table"
     }
   ]
 }
