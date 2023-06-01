@@ -1,11 +1,19 @@
 {
-  "page": [],
   "component": [],
+  "page": [
+    {
+      "name": "Page1",
+      "type": "page"
+    }
+  ],
   "block": [
     {
-      "name": "B-base-search-table",
-      "type": "block",
-      "npmUrl": "http://fmsnexus.paydev.com:8081/repository/npm-local/@fms/b-base-search-table"
+      "name": "BaseSearchTable",
+      "type": "block"
+    },
+    {
+      "name": "BaseSearchTable copy",
+      "type": "block"
     }
   ]
 }
